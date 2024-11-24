@@ -1,0 +1,5 @@
+﻿  randwalk.cpp
+D:\CODEsource\C++ primer plus\Source Code\Chapter 11\randwalk.cpp(12,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  vect.cpp
+  正在生成代码...
+  Randwalk(Drunkard Walk problem).vcxproj -> E:\VS2022\Cpp\Randwalk(Drunkard Walk problem)\x64\Debug\Randwalk(Drunkard Walk problem).exe
